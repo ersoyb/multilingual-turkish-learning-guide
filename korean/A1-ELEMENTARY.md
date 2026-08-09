@@ -128,7 +128,7 @@ Türkçe: Öğretmenim.
 2 - 이 (i)          12 - 십이 (sipi)
 3 - 삼 (sam)        13 - 십삼 (sipsam)
 4 - 사 (sa)         14 - 십사 (sipsa)
-5 - 오 (o)          15 - 십오 (sipो)
+5 - 오 (o)          15 - 십오 (sipо)
 6 - 육 (yuk)        16 - 십육 (sipyuk)
 7 - 칠 (chil)       17 - 십칠 (sipchil)
 8 - 팔 (pal)        18 - 십팔 (sippal)
@@ -180,7 +180,7 @@ Korece'de "olmak" fiili **이다 (ida)**'dır.
 
 ### Hâller ve Partiküller (조사)
 
-Korece'de Turkish'te olduğu gibi Hâl Sistemi vardır!
+Korece'de Türkçe'te olduğu gibi Hâl Sistemi vardır!
 
 ```
 는 (neun) - Konusu belirtir (Topic Particle)
@@ -253,4 +253,3 @@ B: 저는 의사입니다.
 ---
 
 **Sonraki:** 한국어 A2
-
